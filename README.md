@@ -5,7 +5,8 @@
 </p>
 
  <div>
-<a href="https://github.com/Uniaa-MLLM/Uniaa"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FUniaa-MLLM%2FUniaa&count_bg=%23E97EBA&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false"/></a>    <a href="["](https://github.com/Uniaa-MLLM/Uniaa)><img src="https://img.shields.io/github/stars/Q-Future/Q-Bench"/></a>
+<a href="https://github.com/Uniaa-MLLM/Uniaa"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FUniaa-MLLM%2FUniaa&count_bg=%23E97EBA&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false"/></a>    
+<a href="https://github.com/Uniaa-MLLM/Uniaa"><img src="https://github.com/Uniaa-MLLM/Uniaa"/></a>
 <a href="https://arxiv.org/abs/2309.14181"><img src="https://img.shields.io/badge/Arxiv-2309:14181-red"/></a>
 <a href="https://github.com/Q-Future/Q-Bench/releases/tag/v1.0.1.1014datarelease"><img src="https://img.shields.io/badge/Data-Release-green"></a>
 <!-- <a href="https://arxiv.org/abs/2402.07116"><img src="https://img.shields.io/badge/Extension-2402:07116-yellow"/></a> -->
@@ -15,6 +16,70 @@
 # Uniaa: A Unified Multi-modal Image Aesthetic Assessment Baseline and Benchmark
 
 
+  <div style="width: 80%; text-align: center; margin:auto;">
+      <img style="width:80%" src="imgs/intro.png">
+  </div>
+</div>
 
-<embed src="https://github.com/Uniaa-MLLM/Uniaa/blob/main/imgs/intro.pdf" type="application/pdf" width="100%" height="600px" />
+The Unified Multi-modal Image Aesthetic Assessment Framework, containing a baseline (a) and a benchmark  (b). The aesthetic perception performance of UNIAA-LLaVA and other MLLMs is shown in (c).
 
+
+  <div style="width: 80%; text-align: center; margin:auto;">
+      <img style="width:80%" src="imgs/intro.png">
+  </div>
+</div>
+    
+The IAA Datasets Conversion Paradigm for UNIAA-LLaVA.
+
+
+  <div style="width: 80%; text-align: center; margin:auto;">
+      <img style="width:80%" src="imgs/benchmark.png">
+  </div>
+</div>
+
+The UNIAA-Bench overview. (a) UNIAA-QA contains 5354 Image-Question-Answer samples and (b) UNIAA-Describe contains 501 Image-Description samples. (c) For open-source MLLMs, Logits can be extracted to calculate the score.
+
+## Release
+
+- [4/15] 🔥 We build the page of UNIAA!
+  
+
+## Performance
+
+### Aesthetic Perception Performance
+  <div style="width: 80%; text-align: center; margin:auto;">
+      <img style="width:80%" src="imgs/perception.png">
+  </div>
+</div>
+
+### Aesthetic Description Performance
+    <div style="width: 80%; text-align: center; margin:auto;">
+        <img style="width:80%" src="imgs/description.png">
+    </div>
+</div>
+
+### Aesthetic Assessment Performance
+#### Zero-shot
+    <div style="width: 80%; text-align: center; margin:auto;">
+        <img style="width:80%" src="imgs/assessment.png">
+    </div>
+
+#### Supervised learning on AVA and TAD66K
+    <div style="width: 80%; text-align: center; margin:auto;">
+        <img style="width:80%" src="imgs/assessment_supervised.png">
+    </div>
+
+
+## Training on data of UNIAA
+#### Step 1: Download Images and Json files
+#### Step 2: Training On Specific MLLM
+
+## Test on UNIAA-Bench
+### For Aesthetic Perception
+#### Step 1: Download Images and Json files
+#### Step 2: Run the inference code
+#### Step 3: Calculate the score
+
+### For Aesthetic Description
+#### Step 1: Download Images and Json files
+#### Step 2: Run the inference code
