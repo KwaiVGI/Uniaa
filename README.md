@@ -59,12 +59,12 @@ The UNIAA-Bench overview. (a) UNIAA-QA contains 5354 Image-Question-Answer sampl
 ### Aesthetic Assessment Performance
 #### Zero-shot
     <div style="width: 80%; text-align: center; margin:auto;">
-        <img style="width:80%" src="imgs/assessment.png">
+        <img style="width:80%" src="imgs/zero-shot-assessment.png">
     </div>
 
 #### Supervised learning on AVA and TAD66K
     <div style="width: 80%; text-align: center; margin:auto;">
-        <img style="width:80%" src="imgs/assessment_supervised.png">
+        <img style="width:80%" src="imgs/superivised-learning-assessment.png">
     </div>
 
 
