@@ -15,29 +15,27 @@
 
 # Uniaa: A Unified Multi-modal Image Aesthetic Assessment Baseline and Benchmark
 
-
-  <div style="width: 80%; text-align: center; margin:auto;">
-      <img style="width:80%" src="imgs/intro.png">
-  </div>
-</div>
-
 The Unified Multi-modal Image Aesthetic Assessment Framework, containing a baseline (a) and a benchmark  (b). The aesthetic perception performance of UNIAA-LLaVA and other MLLMs is shown in (c).
-
-
   <div style="width: 80%; text-align: center; margin:auto;">
       <img style="width:80%" src="imgs/intro.png">
   </div>
-</div>
+
+
+
     
 The IAA Datasets Conversion Paradigm for UNIAA-LLaVA.
+<p align="center">
+      <img style="width:80%" src="imgs/baseline.png">
+</p>
 
-
-  <div style="width: 80%; text-align: center; margin:auto;">
-      <img style="width:80%" src="imgs/benchmark.png">
-  </div>
-</div>
 
 The UNIAA-Bench overview. (a) UNIAA-QA contains 5354 Image-Question-Answer samples and (b) UNIAA-Describe contains 501 Image-Description samples. (c) For open-source MLLMs, Logits can be extracted to calculate the score.
+<p align="center">
+      <img style="width:80%" src="imgs/benchmark.png">
+</p>
+
+
+
 
 ## Release
 
