@@ -90,4 +90,7 @@ If you find LLaVA useful for your your research and applications, please cite us
 }
 ```
 
+## Contact
+If you have any questions, please feel free to email wangqiulin@kuaishou.com and zhouzhaokun@stu.pku.edu.cn.
+
 
