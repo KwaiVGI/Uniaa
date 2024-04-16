@@ -78,7 +78,7 @@ The UNIAA-Bench overview. (a) UNIAA-QA contains 5354 Image-Question-Answer sampl
 
 ## Citation
 
-If you find LLaVA useful for your your research and applications, please cite using this BibTeX:
+If you find UNIAA useful for your your research and applications, please cite using this BibTeX:
 ```bibtex
 @misc{zhou2024uniaa,
       title={UNIAA: A Unified Multi-modal Image Aesthetic Assessment Baseline and Benchmark}, 
