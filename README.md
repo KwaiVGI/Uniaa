@@ -75,3 +75,19 @@ The UNIAA-Bench overview. (a) UNIAA-QA contains 5354 Image-Question-Answer sampl
 ### For Aesthetic Description
 #### Step 1: Download Images and Json files
 #### Step 2: Run the inference code
+
+## Citation
+
+If you find LLaVA useful for your your research and applications, please cite using this BibTeX:
+```bibtex
+@misc{zhou2024uniaa,
+      title={UNIAA: A Unified Multi-modal Image Aesthetic Assessment Baseline and Benchmark}, 
+      author={Zhaokun Zhou and Qiulin Wang and Bin Lin and Yiwei Su and Rui Chen and Xin Tao and Amin Zheng and Li Yuan and Pengfei Wan and Di Zhang},
+      year={2024},
+      eprint={2404.09619},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
+
+
