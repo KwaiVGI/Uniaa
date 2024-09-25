@@ -34,7 +34,7 @@ The UNIAA-Bench overview. (a) UNIAA-QA contains 5354 Image-Question-Answer sampl
 
 
 ## Release
-
+- [9/25] 🔥 Our [UNIAA](https://huggingface.co/datasets/zkzhou/UNIAA) data is released! The corresponding fine-tuning and evaluation code can be found in the GitHub repository folder.
 - [4/15] 🔥 We build the page of UNIAA!
   
 
